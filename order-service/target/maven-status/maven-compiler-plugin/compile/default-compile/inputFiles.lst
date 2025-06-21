@@ -1,7 +1,7 @@
-C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\Kafka\src\main\java\SpringBoot\Kafka\config\KafkaProducerConfig.java
-C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\Kafka\src\main\java\SpringBoot\Kafka\controller\OrderController.java
-C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\Kafka\src\main\java\SpringBoot\Kafka\entity\Order.java
-C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\Kafka\src\main\java\SpringBoot\Kafka\OrderServiceApplication.java
-C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\Kafka\src\main\java\SpringBoot\Kafka\producer\OrderProducer.java
-C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\Kafka\src\main\java\SpringBoot\Kafka\repository\OrderRepository.java
-C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\Kafka\src\main\java\SpringBoot\Kafka\service\OrderService.java
+C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\order-service\src\main\java\SpringBoot\Kafka\config\KafkaProducerConfig.java
+C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\order-service\src\main\java\SpringBoot\Kafka\controller\OrderController.java
+C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\order-service\src\main\java\SpringBoot\Kafka\entity\Order.java
+C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\order-service\src\main\java\SpringBoot\Kafka\OrderServiceApplication.java
+C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\order-service\src\main\java\SpringBoot\Kafka\producer\OrderProducer.java
+C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\order-service\src\main\java\SpringBoot\Kafka\repository\OrderRepository.java
+C:\Users\deepa\Desktop\Deepak\Understanding EKS\Kafka-order-service\order-service\src\main\java\SpringBoot\Kafka\service\OrderService.java
