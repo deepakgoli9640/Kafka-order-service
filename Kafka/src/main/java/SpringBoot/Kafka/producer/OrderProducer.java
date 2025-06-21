@@ -2,8 +2,8 @@ package SpringBoot.Kafka.producer;
 
 
 import SpringBoot.Kafka.entity.Order;
-import lombok.Value;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;
 
@@ -21,5 +21,6 @@ public class OrderProducer {
 
     public void sendOrder(Order order) {
         kafkaTemplate.send(orderTopic, order.getOrderId(), order);
+
 }
 }
